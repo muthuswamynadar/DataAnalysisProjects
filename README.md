@@ -26,22 +26,6 @@ This project explores Netflix movie data to answer interesting questions about g
 ---
 
 
----
-
-## 📈 Sample Visualizations
-
-### 🎥 Top Movie Genres on Netflix  
-![Genre Chart](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
-
-### ⭐ Movie with Highest Average Vote  
-![Highest Vote](https://media.giphy.com/media/L0NslhM6EmQF6qQzJj/giphy.gif)
-
-### 🔥 Highest & Lowest Popularity Movies  
-![Popularity](https://media.giphy.com/media/Gf3fU0qPtI6uk/giphy.gif)
-
-> 💡 You can replace these placeholders with your own plot GIFs by using screen recording tools or exporting animations from `matplotlib` or `plotly`.
-
----
 
 ## 📊 Key Insights
 
@@ -74,10 +58,11 @@ This first project helped me:
 
 ## 📫 Contact Me
 
-**Name:** [Muthuswamy Nadar]  
-**GitHub:** [https://github.com/muthuswamynadar]
-**Email:** [muthuswamynadar25@gmail.com]
-**LinkedIn:** [https://www.linkedin.com/in/nadarmuthuswamy/]
+**Name:** Muthuswamy Nadar  
+**GitHub:** [https://github.com/muthuswamynadar](https://github.com/muthuswamynadar)  
+**Email:** [muthuswamynadar25@gmail.com](mailto:muthuswamynadar25@gmail.com)  
+**LinkedIn:** [https://www.linkedin.com/in/nadarmuthuswamy/](https://www.linkedin.com/in/nadarmuthuswamy/)
+
 ---
 
 🌟 *If you found this project helpful, consider giving it a star!*
